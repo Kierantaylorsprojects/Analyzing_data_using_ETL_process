@@ -2,7 +2,7 @@
 
 # Crowdfunding_ETL
 
-The motivation of this project was to demonstrate the successful construction of an ETL pipeline using Python,Pandas, and different dictionary methods/ regular expressions to create CSV files, an ERD, and a Table Schema.
+The motivation of this project was to demonstrate the successful construction of an ETL pipeline using Python, Pandas, and different dictionary methods and regular expressions to create CSV files, an ERD, and a Table Schema.
 
 <br>
 <br>
