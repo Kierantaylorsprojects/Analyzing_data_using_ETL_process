@@ -14,8 +14,7 @@ Through this process the following skills were emphasized:
 
 <ol>
 <ul>-Generated a DataFrame using Pandas from an xlsx file. </ul>
-<ul>-After further analyzing the the structure, a Category and 
-	<ul>Subcategory DataFrames were built. </ul></ul>
+<ul>-After further analyzing the the structure, a Category and <ul>Subcategory DataFrames were built. </ul></ul>
 <ul>-The information was successfully organized into columns</ul>
 </ol>
 
